@@ -40,4 +40,5 @@ db username dan db password sesuaikan dengan local server yang digunakan. (autho
 - aplikasi ini belum memiliki fitur keamanan yang memadai, author hanya membatasi dengan fitur session login.
 
 ~Selamat mencoba
-Author : I Kadek Naryasa
+# Author
+I Kadek Naryasa
