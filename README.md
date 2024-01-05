@@ -39,5 +39,5 @@ db username dan db password sesuaikan dengan local server yang digunakan. (autho
 - menu untuk menampilkan admin tidak dibuat, jika ingin dibuat silakan menambahkan secara pribadi
 - aplikasi ini belum memiliki fitur keamanan yang memadai, author hanya membatasi dengan fitur session login.
 
-~Selamat mencoba~
+~Selamat mencoba
 Author : I Kadek Naryasa
