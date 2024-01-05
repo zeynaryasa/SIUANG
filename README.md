@@ -39,6 +39,10 @@ db username dan db password sesuaikan dengan local server yang digunakan. (autho
 - menu untuk menampilkan admin tidak dibuat, jika ingin dibuat silakan menambahkan secara pribadi
 - aplikasi ini belum memiliki fitur keamanan yang memadai, author hanya membatasi dengan fitur session login.
 
+# BaseUrl
+base url dibuat untuk mempermudah dalam penggunaan template header dan foother
+jika merubah nama file utama (SIUANG), lakukan konfigurasi pada file baseUrl.php sesuai dengan nama file utama setelah diubah
+
 ~Selamat mencoba
 # Author
 I Kadek Naryasa
